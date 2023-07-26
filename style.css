@@ -9,7 +9,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: #10101E;
+    background: white;
 }
 
 ::-webkit-scrollbar{
